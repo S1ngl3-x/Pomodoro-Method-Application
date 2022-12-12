@@ -23,7 +23,7 @@
     "cors": "^2.8.5",
     "cross-env": "^5.2.0",
     "easytimer.js": "^4.1.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-graphql": "^0.9.0",
     "fs": "0.0.1-security",
     "fs-extra": "^9.0.0",
